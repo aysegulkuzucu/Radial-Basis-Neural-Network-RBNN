@@ -9,6 +9,5 @@ Uygulama 2
 Bu uygulamada uygulamalarda sıklıkla kullanılan Gauss Metodu kullanılmıştır.
 Uygulamanın amacı; bir maddenin radyasyon içerip içermediğini x1 ve x2 giriş sinyallerine göre sınıflandırmak üzere bir Radyal Tabanlı Sinir Ağını eğitmektir. Bu eğitim sırasında oluşturulmuş bazı fonksiyonlar ve bu fonksiyonların uygulandığı plotData, initCentroids, getClosestCentroids ve computeCentroids olmak üzere 4 farklı fonksiyon bulunmaktadır. 
 
-Uygulamaların detaylı olarak anlatıldığı Youtube Linki :
+Proje sunumuna göz atın : https://youtu.be/lxdjoM760jo
 
-https://youtu.be/lxdjoM760jo
